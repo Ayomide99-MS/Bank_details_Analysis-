@@ -2,7 +2,7 @@
 
 ![Bank Details Dashboard](./Annotation%202025-03-14%20023340.png)
 
-## 📁 Project Overview
+##  Project Overview
 
 This project presents a detailed dashboard analysis of customer banking data using Excel. It provides insights into loan amounts, balances, deposits, transaction types, and demographic splits such as gender and account types.
 
@@ -10,7 +10,7 @@ The goal is to help financial institutions or analysts better understand custome
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 - Total Customer Count
 - Loan Amounts by Gender
@@ -23,7 +23,7 @@ The goal is to help financial institutions or analysts better understand custome
 
 ---
 
-## 📊 Tools Used
+## Tools Used
 
 - Microsoft Excel
   - Pivot Tables
@@ -34,7 +34,7 @@ The goal is to help financial institutions or analysts better understand custome
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - **Total Customers:** 3,000
 - **Total Loans:** ₦1,010,433,936,679
@@ -47,7 +47,7 @@ The goal is to help financial institutions or analysts better understand custome
 
 ---
 
-## 🔍 Filters Available
+##  Filters Available
 
 - Transaction Year (2021, 2022)
 - Gender (Male, Female)
@@ -55,7 +55,7 @@ The goal is to help financial institutions or analysts better understand custome
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 - `General Excel Project_ Bank Details analysis.xlsx` – The working Excel file with all pivot tables, slicers, and charts.
 - `Annotation 2025-03-14 023340.png` – Snapshot of the final dashboard.
@@ -63,7 +63,7 @@ The goal is to help financial institutions or analysts better understand custome
 
 ---
 
-## ✅ Usage
+##  Usage
 
 1. Open the Excel file.
 2. Use the slicers on the left to filter by Year, Gender, or Account Type.
@@ -72,7 +72,7 @@ The goal is to help financial institutions or analysts better understand custome
 
 ---
 
-## 📌 Author
+##  Author
 
 **Ayeni Ayomide Adebusuyi**  
 📧 ayeniayomideadebusuyi13@gmail.com  
